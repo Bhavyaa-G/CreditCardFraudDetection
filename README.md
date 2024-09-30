@@ -15,5 +15,7 @@ Isolation Forest achieved the highest accuracy score of 99.77%, demonstrating it
 Setup Instructions:
 
 Clone the repository: git clone https://github.com/Bhavyaa-G/credit-card-fraud-detection.git
+
 Install the required dependencies: pip install -r requirements.txt
+
 Run the notebook: jupyter notebook Fraud_Detection.ipynb
